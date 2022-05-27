@@ -1,0 +1,68 @@
+{
+  "description": "",
+  "tags": [
+    {
+      "id": 124834166,
+      "tagId": 30255294,
+      "name": "train",
+      "value": null,
+      "labelerLogin": "Sanchoz",
+      "createdAt": "2022-05-20T23:27:42.730Z",
+      "updatedAt": "2022-05-20T23:27:42.730Z"
+    }
+  ],
+  "size": {
+    "height": 1080,
+    "width": 1920
+  },
+  "objects": [
+    {
+      "id": 940356792,
+      "classId": 10129690,
+      "description": "",
+      "geometryType": "rectangle",
+      "labelerLogin": "Sanchoz",
+      "createdAt": "2022-05-20T23:27:42.731Z",
+      "updatedAt": "2022-05-23T21:50:44.025Z",
+      "tags": [],
+      "classTitle": "RoadSign_bbox",
+      "points": {
+        "exterior": [
+          [
+            536,
+            395
+          ],
+          [
+            939,
+            635
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "id": 941073212,
+      "classId": 10129690,
+      "description": "",
+      "geometryType": "rectangle",
+      "labelerLogin": "Sanchoz",
+      "createdAt": "2022-05-23T21:50:43.920Z",
+      "updatedAt": "2022-05-23T21:50:43.920Z",
+      "tags": [],
+      "classTitle": "RoadSign_bbox",
+      "points": {
+        "exterior": [
+          [
+            1002,
+            383
+          ],
+          [
+            1293,
+            645
+          ]
+        ],
+        "interior": []
+      }
+    }
+  ]
+}
